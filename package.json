@@ -1,0 +1,27 @@
+{
+  "name": "jwt-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romcar/JWT-practice.git"
+  },
+  "author": "Erwin Carrasquilla <rommel.carrasquilla@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romcar/JWT-practice/issues"
+  },
+  "homepage": "https://github.com/romcar/JWT-practice#readme",
+  "dependencies": {
+    "vue": "^2.5.16",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.16.0",
+    "webpack-cli": "^3.0.8"
+  }
+}

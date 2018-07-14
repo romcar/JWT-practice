@@ -3,9 +3,12 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
-
+bundle.js
 # Other files and folders
 .settings/
+node_modules/
+
+.vscode/
 
 # Executables
 *.swf
