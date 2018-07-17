@@ -1,0 +1,3 @@
+/*
+  List of all redux store actions
+*/
